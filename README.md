@@ -1,14 +1,14 @@
 <h1> GERADOR DE SENHAS TOTALMENTE SEGURO!! <h1>
 
-<h2> Dependencias <h2>
-<p>Este pequeno programa usa o chalk como sua biblioteca com finalidade unica de 
-colorir a saídas de senhas e erros.
+<h2> Dependências <h2>
+<p>Este pequeno programa usa o chalk como sua biblioteca com finalidade única de 
+colorir as saídas de senhas e erros.
 Para o correto funcionamento do código necessita ter o Node.js v18.16.0 ou superior instalado
 e a versão 5.3.0 do Chalk (ou Superior).<p>
 
 <h2> Uso <h2>
 
-<p>Para fazer uso do código quando todos os seus devidos pacotes estiverem instalados use:
+<p>Para fazer uso do código, quando todos os seus devidos pacotes estiverem instalados, use:
     npm run cli (o tamanho de caracteres que você deseja ter em sua senha)
 
     por exemplo: 
